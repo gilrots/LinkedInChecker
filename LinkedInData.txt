@@ -1,0 +1,5 @@
+1|Bil Gates|learn|ceo at microsoft|hellow my name is subaluba. i have learning, sleeping and see t.v|c#/web/angular|10.2012?02.2016?programmer?Microsoft/4.2016?11.2016?team leader?idf|2012?2015?Tel aviv university?2?computer_sience|17.05.2013
+2|Gil rotstein|learn|ceo at microsoft|life is short|c#/java/web/angular|10.2012?02.2016?programmer?Microsoft/4.2016?11.2016?team leader?idf|2012?2015?Tlv university?2?computer_sience|19.11.2016
+3|or cohen|learn|team leader at idf|life is short|java|10.2012?02.2016?programmer?idf/4.2016?11.2016?team leader?idf|2012?2015?Tel aviv university?2?computer_sience|19.11.2016
+4|gal cohen|learn|team leader at idf|i leve in miami and i wad to leavrn englich|java|10.2012?02.2016?programmer?idf/4.2016?11.2016?team leader?idf|2012?2015?Tel aviv university?2?computer_sience|19.11.2016
+5|ben cohen|learn|team leader at idf|i leve in miami and i want to leavrn english|java|10.2012?02.2016?programmer?idf/4.2016?11.2016?team leader?idf|2012?2015?Tel aviv university?2?computer_sience|19.11.2016

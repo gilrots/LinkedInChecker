@@ -1,0 +1,250 @@
+Harvard Univ. |1
+Univ. of Toronto |2
+Univ. of Oxford |3
+Stanford Univ. |4
+Univ. Coll. London |5
+Johns Hopkins Univ. |6
+Massachusetts Institute of Technology (MIT) |7
+Univ. of Cambridge |8
+Univ. of California Berkeley |9
+Univ. of Michigan |10
+Univ. of Washington Seattle |11
+Univ. of California Los Angeles |12
+Univ. of Pennsylvania |13
+Columbia Univ. |14
+Imperial Coll. London |15
+Univ. of Copenhagen |16
+Univ. of California San Diego |17
+Univ. of Tokyo |18
+Yale Univ. |19
+Univ. of Chicago |20
+Univ. of British Columbia |21
+Univ. of California San Francisco |22
+KU Leuven |23
+Duke Univ. |24
+Cornell Univ. |25
+Pierre & Marie Curie Univ. - Paris 6 |26
+Univ. of Sydney |27
+Univ. of Minnesota Twin Cities |28
+National Univ. of Singapore |29
+Univ. of Wisconsin Madison |30
+Univ. of Melbourne |31
+Univ. of Pittsburgh |32
+Peking Univ. |33
+Zhejiang Univ. |34
+McGill Univ. |35
+Univ. of Colorado Boulder |36
+Ohio State Univ. |37
+Tsinghua Univ. |38
+Shanghai Jiao Tong Univ. |39
+Universidade de Sao Paulo |40
+Univ. of Queensland |41
+Swiss Federal Institute of Technology Zurich |42
+Univ. of North Carolina Chapel Hill |43
+Univ. of Utrecht |44
+Univ. of Barcelona |45
+Northwestern Univ. |46
+Univ. of California Davis |47
+Penn State Univ. |48
+Univ. of Manchester |49
+Seoul National Univ. |50
+Ruprecht Karl Univ. Heidelberg |51
+Univ. of Edinburgh |52
+Karolinska Institutet |53
+Univ. of Florida |54
+Univ. of Munich |55
+Washington Univ. (WUSTL) |56
+Monash Univ. |57
+Kings Coll. London |58
+California Institute of Technology |59
+Kyoto Univ. |60
+Univ. of Amsterdam |61
+Ghent Univ. |62
+Univ. of Groningen |63
+Univ. of Texas Austin |64
+Univ. of Zurich |65
+Nanyang Technological Univ. |66
+Aarhus Univ. |67
+New York Univ. |68
+Humboldt Univ. of Berlin |69
+Free Univ. of Berlin |70
+Univ. of New South Wales |71
+Univ. of Helsinki |72
+Sapienza Univ. Rome |73
+Fudan Univ. |74
+Univ. of Maryland Coll. Park |75
+Univ. of Illinois Urbana-Champaign |76
+Univ. of Alberta |77
+Univ. of Southern California |78
+Boston Univ. |79
+VU Univ. Amsterdam |80
+Vanderbilt Univ. |81
+Leiden Univ. |82
+Lund Univ. |83
+Emory Univ. |84
+Univ. of Paris Diderot - Paris VII |85
+Radboud Univ. Nijmegen |86
+Univ. of Paris Sud - Paris XI |87
+Erasmus Univ. Rotterdam |88
+Uppsala Univ. |89
+Univ. of Oslo |90
+Univ. of Aix-Marseille |91
+National Taiwan Univ. |92
+Princeton Univ. |93
+Univ. of Padua |94
+Technical Univ. of Munich |95
+Univ. of Montreal |96
+Univ. of Arizona |97
+Rutgers State Univ. |98
+Sun Yat Sen Univ. |99
+Nanjing Univ. |100
+Osaka Univ. |101
+Univ. of Bristol |102
+Univ. of Geneva |103
+Univ. of Western Australia |104
+Tohoku Univ. |105
+Univ. of California Irvine |106
+Ecole Polytechnique Federale de Lausanne |107
+Texas A&M Univ. Coll. Station |108
+Purdue Univ. |109
+Univ. of Southampton |110
+Huazhong Univ. of Science & Technology |111
+Michigan State Univ. |112
+Univ. of Science & Technology of China |113
+Universite Grenoble Alpes (UGA) |114
+Univ. of Milan |115
+Universidade de Lisboa |116
+Univ. of Utah |117
+Univ. of Hamburg |118
+Univ. of Birmingham |119
+Univ. of Bologna |120
+McMaster Univ. |121
+Tel Aviv Univ. |122
+Universite de Toulouse |123
+Shandong Univ. |124
+Georgia Institute of Technology |125
+Autonomous Univ. of Barcelona |126
+Univ. of Nottingham |127
+Univ. of Bern |128
+Univ. of Bonn |129
+Univ. of Glasgow |130
+Yonsei Univ. |131
+Eberhard Karls Univ. of Tubingen |132
+Charite Medical Univ. of Berlin |133
+Australian National Univ. |134
+Univ. of California Santa Barbara |135
+Jilin Univ. |136
+Univ. of Hong Kong |137
+Univ. of Leeds |138
+Sungkyunkwan Univ. |139
+Univ. of Virginia |140
+Sichuan Univ. |141
+Univ. of Calgary |142
+Univ. of Basel |143
+Brown Univ. |144
+Harbin Institute of Technology |145
+Arizona State Univ. |146
+Univ. of Sheffield |147
+Univ. of Paris Descartes - Paris V |148
+Univ. of Freiburg |149
+Universite de Montpellier |150
+Univ. of Iowa |151
+Univ. of Erlangen Nuremberg |152
+Dresden Univ. of Technology |153
+Technical Univ. of Denmark |154
+Univ. of Gottingen |155
+Xian Jiaotong Univ. |156
+Charles Univ. Prague |157
+Univ. of Claude Bernard - Lyon 1 |158
+Univ. of Liverpool |159
+King Abdulaziz Univ. |160
+Univ. of Ottawa |161
+Korea Univ. |162
+Universite Toulouse III - Paul Sabatier |163
+Case Western Reserve Univ. |164
+Univ. of Naples Federico II |165
+Hebrew Univ. of Jerusalem |166
+RWTH Aachen Univ. |167
+Wageningen Univ. & Research Center |168
+Cardiff Univ. |169
+Univ. of Munster |170
+Nagoya Univ. |171
+Karlsruhe Institute of Technology |172
+Univ. of Rochester |173
+Universidad Nacional Autonoma de Mexico |174
+Maastricht Univ. |175
+Univ. of Adelaide |176
+Lomonosov Moscow State Univ. |177
+Stockholm Univ. |178
+King Saud Univ. |179
+Univ. of Miami |180
+Univ. of Alabama Birmingham |181
+Wuhan Univ. |182
+Western Univ. (Univ. of Western Ontario) |183
+Univ. of Illinois Chicago |184
+Univ. of Turin |185
+Univ. of Gothenburg |186
+Universidade do Porto |187
+Kyushu Univ. |188
+Goethe Univ. Frankfurt |189
+Univ. of Waterloo |190
+Central South Univ. |191
+North Carolina State Univ. |192
+Tongji Univ. |193
+Univ. of Cologne |194
+Univ. of Auckland |195
+Newcastle Univ. - UK |196
+Univ. of California Santa Cruz |197
+Johannes Gutenberg Univ. of Mainz |198
+Hokkaido Univ. |199
+Queen Mary Univ. London |200
+Southeast Univ. - China |201
+Univ. of Wurzburg |202
+Univ. of Athens |203
+Univ. of Florence |204
+Univ. of Lausanne |205
+Royal Institute of Technology |206
+Univ. of Strasbourg |207
+Univ. of Warwick |208
+Univ. of Maryland Baltimore |209
+Delft Univ. of Technology |210
+Iowa State Univ. |211
+Univ. of Vienna |212
+Univ. of Valencia |213
+Univ. of Tennessee Knoxville |214
+Suzhou Univ. |215
+Complutense Univ. of Madrid |216
+Univ. of Bergen |217
+State Univ. of New York (SUNY) Stony Brook |218
+Univ. of Pisa |219
+Univ. of Cincinnati |220
+Univ. of Georgia |221
+Autonomous Univ. of Madrid |222
+South China Univ. of Technology |223
+Dalian Univ. of Technology |224
+Korea Advanced Institute of Science & Technology (KAIST) |225
+Univ. of South Florida |226
+Indiana Univ. (Purdue Univ. Indianapolis) |227
+Univ. of Kiel |228
+Laval Univ. |229
+Univ. of Kansas |230
+Tianjin Univ. |231
+Virginia Polytechnic Institute & State Univ. |232
+Universite Libre de Bruxelles |233
+Univ. of Connecticut |234
+Univ. of Antwerp |235
+Indiana Univ. Bloomington |236
+Univ. of Massachusetts Amherst |237
+Medical Univ. of Vienna |238
+Univ. of Kentucky |239
+Univ. of Cape Town |240
+Univ. of Granada |241
+Univ. of Belgrade |242
+Louisiana State Univ. |243
+Universiti Malaya |244
+Yeshiva Univ. |245
+Tufts Univ. |246
+Carnegie Mellon Univ. |247
+Xiamen Univ. |248
+Norwegian Univ. of Science & Technology |249
+State Univ. of New York (SUNY) Buffalo |250
